@@ -1,3 +1,4 @@
 Huong dan cai dat 
 git clone https://github.com/CongHau-HTC/An-toan-mang.git
+chmod +x
 ./setup
